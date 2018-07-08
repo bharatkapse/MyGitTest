@@ -1,2 +1,2 @@
 # MyGitTest
-1st GitHub repository
+Just in the learning stage. Learning vs code, postgreSql and sequelize.
